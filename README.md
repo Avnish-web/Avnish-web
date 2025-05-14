@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Avnish
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java spring boot.
+- 🌱 I’m currently learning Linux.
