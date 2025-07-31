@@ -1,6 +1,12 @@
-I'm a DevOps Engineer passionate about automating infrastructure, streamlining CI/CD pipelines, and ensuring reliable software delivery. 
-With hands-on experience in tools like Docker, Kubernetes, Jenkins, and Terraform, I enjoy building scalable, cloud-native environments.
+# Hi 👋 I’m Avnish
+I’m a Python developer currently exploring Java Spring Boot, web apps, and automation.
 
-Currently working on deploying applications using CI/CD pipelines on AWS.
+**🔧 Skills:** Java, Python, Django, REST APIs, HTML/CSS, Tomcat, Maven
 
-Always learning, always automating.
+**📫 Get in touch:**  
+[LinkedIn](https://www.linkedin.com/in/avneesh-sharma-1423b2270/)  • Email: com.avnish@gmail.com
+
+## 🚀 Featured Projects
+- [DSC_Bookstore](link) — static digital library deployed on Tomcat  
+- [Hotel-Management-system](link) — Java web app with room booking & admin UI  
+- [E-Commerce-Django](link) — Web application built with Python Django
