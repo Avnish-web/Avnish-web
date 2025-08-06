@@ -2,7 +2,7 @@
 I’m a DevOps enthusiast with a background in Python and Java development. I specialize in automating deployments, managing cloud-native infrastructure, and building robust CI/CD pipelines.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Python, Bash, YAML  
+- **Languages:** Python, Bash, YAML, HCL
 - **DevOps Tools:** Docker, Kubernetes, Ansible, Terraform  
 - **CI/CD:** GitHub Actions, Jenkins, Maven, Tomcat  
 - **Cloud & Platforms:** AWS, Azure, Linux, Nginx, Apache  
