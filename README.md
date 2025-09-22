@@ -86,10 +86,11 @@
 <td width="50%">
 
 ### 🌟 Projects
-- [📚 **DSC_Bookstore**](https://github.com/Avnish-web/DSC_Bookstore)  
+- [![DSC_Bookstore](https://img.shields.io/badge/DSC_Bookstore-Tomcat_Maven-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avnish-web/DSC_Bookstore)  
   Lightweight digital library deployed with **Tomcat + Maven**, localStorage auth flow  
 
-- [🏨 **Hotel Management System**](https://github.com/Avnish-web/Hotel-Management-system)  
+
+- [![Hotel Management System](https://img.shields.io/badge/Hotel_Management_System-JAR-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avnish-web/Hotel-Management-system)  
   Java-based booking platform with admin portal, packaged & deployed using **Maven + JAR**
 
 </td>
