@@ -97,7 +97,7 @@
 <td width="50%">
 
 ### 🛒 More Projects
-- [🛒 **E-commerce Django**](https://github.com/Avnish-web/e-commerce-Django)  
+- [![E-commerce Django](https://img.shields.io/badge/E-commerce_Django-Razorpay-D22222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avnish-web/e-commerce-Django)  
   Full-stack Django project with Razorpay integration & Dockerization in progress  
 
 - 🔨 Working on Kubernetes clusters using **kubeadm + containerd**  
